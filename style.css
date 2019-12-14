@@ -1,0 +1,16 @@
+body {background-color:#DDFFCC;}
+
+h1 { color:#FF050D;
+font-size: 26px; }
+
+
+section {
+max-width: 500px;
+margin: auto;
+}
+
+p {
+
+  font-size: 17px;
+  color:#000000;
+}

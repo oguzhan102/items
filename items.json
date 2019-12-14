@@ -1,0 +1,43 @@
+{
+
+        "product" : [
+            {
+        "productName" : "Edible Glitter",
+        "productPrice" : "$5.64",
+        "productDescription" : "Add a twinkling touch to your desserts with these glittering gold stars. Don't worry, they're nontoxic and perfectly edible.",
+            "image": "glitter.jpg",
+            "feature": "sparkling food!"
+  },
+
+  {
+  "productName" : "Chia Pet Gremlin",
+  "productPrice" : "$19.99",
+  "productDescription" : "Gremlins fans, you can water this Chia Pet after midnight.",
+      "image": "Gremlin.jpg",
+      "feature": "Fake Yoda!"
+  },
+
+  {
+  "productName" : "Meat Shredder Claws",
+  "productPrice" : "$16.94",
+  "productDescription" : "This surprisingly efficient way of shredding your meat has the added in bonus of making you feel like Wolverine.",
+      "image": "claws.jpg",
+      "feature": "Pretending to be wolverine!"
+  },
+  {
+  "productName" : "Mobile Phone Jail Cell",
+  "productPrice" : "$10.89",
+  "productDescription" : "Phone-addicts beware: you need a key to open up the lock on this cell phone holding cell.",
+      "image": "phonejail.jpg",
+      "feature": "A funny way to kill fun itself!"
+  },
+
+  {
+  "productName" : "Bacon Strips Bandages",
+  "productPrice" : "$5.98",
+  "productDescription" : "Each tin contains 25 bacon-themed bandages. If a beautiful bacon strip isn't enough to heal your wounds, the pack comes with a bonus trinket inside.",
+      "image": "bacon.jpg",
+      "feature": "Delicious looking bandages!"
+  }
+        ]
+}
